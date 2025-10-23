@@ -51,7 +51,7 @@ or
 $ npm run -w backend dev:guildnet
 ```
 
-Run frontend in a separate window:
+Run frontend in a separat window:
 
 ```
 $ npm run -w frontend dev
